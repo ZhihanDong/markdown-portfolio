@@ -1,2 +1,1 @@
-baidu
-www.baidu.com
+[GitHub](http://github.com)
